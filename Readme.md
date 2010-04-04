@@ -1,6 +1,7 @@
 ## redis.go
 
-redis.go is a client for the [redis](http://github.com/antirez/redis) key-value store. 
+Goemon's redis.go is fork version of Mr. Hoisie's redis.go , a client for the [redis](http://github.com/antirez/redis) key-value store. 
+This fork aims at making more rich redis-client for go.
 
 Some features include:
 
